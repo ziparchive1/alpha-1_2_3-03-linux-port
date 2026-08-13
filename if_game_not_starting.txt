@@ -1,0 +1,2 @@
+u need to install java 8 
+sudo pacman -S jdk8-openjdk
