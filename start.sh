@@ -5,5 +5,5 @@ export LD_LIBRARY_PATH="$JAVA_HOME/jre/lib/amd64:$JAVA_HOME/lib/amd64:$LD_LIBRAR
 "$JAVA_HOME/bin/java" -Xmx1024M -Xms1024M \
     -Dorg.lwjgl.librarypath="$PWD/natives" \
     -Dnet.java.games.input.librarypath="$PWD/natives" \
-    -cp "lwjgl.jar:lwjgl_util.jar:Minecraft.jar" \
+    -cp "jars/lwjgl.jar:jars/lwjgl_util.jar:jars/jinput.jar:Minecraft.jar" \
     Start

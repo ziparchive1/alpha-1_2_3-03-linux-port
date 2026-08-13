@@ -2,11 +2,11 @@ music:1.0
 sound:1.0
 invertYMouse:false
 mouseSensitivity:0.5
-viewDistance:0
+viewDistance:3
 bobView:true
 anaglyph3d:false
 limitFramerate:false
-difficulty:2
+difficulty:0
 fancyGraphics:true
 skin:Default
 key_Forward:17
