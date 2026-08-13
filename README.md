@@ -1,4 +1,4 @@
-<img width="736" height="552" alt="image" src="https://github.com/user-attachments/assets/088cb6be-ba22-44f9-b31b-8ef0c9d37181" />
+<img width="434" height="116" alt="MINECRAFT" src="https://github.com/user-attachments/assets/00f7aa5e-d0f9-4afc-8aa4-a8bda5c236b4" />
 
 
 
